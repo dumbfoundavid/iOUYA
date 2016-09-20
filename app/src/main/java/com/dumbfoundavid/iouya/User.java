@@ -14,7 +14,7 @@ public class User {
     private String password;
     private String photo;
     private Tree tree;
-    private ArrayList friends;
+    private ArrayList<User> friends;
 
 
 
