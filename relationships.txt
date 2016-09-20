@@ -1,5 +1,5 @@
 User class:
-ID				<String>
+ID			<String>
 Name			<String>
 *Username		<String>
 *Password		<String>
@@ -9,13 +9,13 @@ Friends			<List>
 
 
 Tree Class:
-ID				<String>
+ID			<String>
 Owner			<User>
 Root			<Node>
 
 
 Node Class:
-ID				<String>
+ID			<String>
 Parent			<Node>
 Children		<List>
 Helped			<User>
