@@ -6,5 +6,7 @@ package com.dumbfoundavid.iouya;
 
 public class User {
 
+    private String firstName;
+
 
 }
